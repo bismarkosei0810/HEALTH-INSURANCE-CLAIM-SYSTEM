@@ -548,6 +548,6 @@ st.markdown("---")
 st.markdown("""
 <div style="text-align: center; color: #7f8c8d;">
     <p>🏥 Health Insurance Claims Prediction System | Built with Streamlit & ML</p>
-    <p>For support, contact: support@healthinsurance.com</p>
+    <p>For support, contact: bismarkosei0810@gmail.com</p>
 </div>
 """, unsafe_allow_html=True)
